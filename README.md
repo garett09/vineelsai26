@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Want to see my repos look here 👇 <br>
+Want to contact me mail me here 👉 vineelsai5439@gmail.com
+
 <!--
 **vineelsai26/vineelsai26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
