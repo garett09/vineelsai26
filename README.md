@@ -28,11 +28,7 @@
 
 ![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26)<br>
 
-<a href="https://github.com/vineelsai26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineelsai26&hide_langs_below=1" />
-</a>
-<a href="https://github.com/vineelsai26">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vineelsai26&show_icons=true&line_height=27" alt="Pawan's github stats"/>
-</a> <br>
+[![Vineel Sai's github stats](https://github-readme-stats.vercel.app/api?username=vineelsai26)](https://github.com/vineelsai26)
+<br>
 
 ![GitHub followers](https://img.shields.io/github/followers/vineelsai26?style=social)
