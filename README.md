@@ -34,4 +34,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/vineelsai26?style=social)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Twitter-Bot)](https://github.com/vineelsai26/Twitter-Bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=ADB-Exploit)](https://github.com/vineelsai26/ADB-Exploit)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Telegram-Bot)](https://github.com/vineelsai26/Telegram-Bot)
