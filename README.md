@@ -26,12 +26,12 @@
 <br/>
 <br/>
 
-![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26)<br>
+![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26) 
+![GitHub followers](https://img.shields.io/github/followers/vineelsai26?style=social)
+<br>
 
 [![Vineel Sai's github stats](https://github-readme-stats.vercel.app/api?username=vineelsai26)](https://github.com/vineelsai26)
 <br>
-
-![GitHub followers](https://img.shields.io/github/followers/vineelsai26?style=social)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Twitter-Bot)](https://github.com/vineelsai26/Twitter-Bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Telegram-Bot)](https://github.com/vineelsai26/Telegram-Bot)
