@@ -27,7 +27,7 @@
 <br/>
 
 ![Vineel Sai](https://komarev.com/ghpvc/?username=vineelsai26) 
-![GitHub followers](https://img.shields.io/github/followers/vineelsai26?style=flat)
+![GitHub followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)
 <br>
 
 [![Vineel Sai's github stats](https://github-readme-stats.vercel.app/api?username=vineelsai26)](https://github.com/vineelsai26)
