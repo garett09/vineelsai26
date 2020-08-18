@@ -36,9 +36,12 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Twitter-Bot)](https://github.com/vineelsai26/Twitter-Bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Telegram-Bot)](https://github.com/vineelsai26/Telegram-Bot)
 
+---
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1107](https://github.com//telegraf/telegraf/issues/1107) in [telegraf/telegraf](https://github.com//telegraf/telegraf)
 2. 💪 Opened PR [#4](https://github.com//BlissRoms-Devices/local_manifests/pull/4) in [BlissRoms-Devices/local_manifests](https://github.com//BlissRoms-Devices/local_manifests)
 3. ❌ Closed PR [#2](https://github.com//BlissRoms-Devices/local_manifests/pull/2) in [BlissRoms-Devices/local_manifests](https://github.com//BlissRoms-Devices/local_manifests)
 4. 💪 Opened PR [#2](https://github.com//BlissRoms-Devices/local_manifests/pull/2) in [BlissRoms-Devices/local_manifests](https://github.com//BlissRoms-Devices/local_manifests)
 <!--END_SECTION:activity-->
+---
