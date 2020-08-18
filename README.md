@@ -30,7 +30,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/vineelsai26?label=Followers)
 <br>
 
-[![Vineel Sai's github stats](https://github-readme-stats.vercel.app/api?username=vineelsai26)](https://github.com/vineelsai26)
+[![Vineel Sai's github stats](https://github-readme-stats.vineelsai.vercel.app/api?username=vineelsai26)](https://github.com/vineelsai26)
 <br>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Twitter-Bot)](https://github.com/vineelsai26/Twitter-Bot)
