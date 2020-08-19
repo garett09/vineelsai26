@@ -33,9 +33,6 @@
 [![Vineel Sai's github stats](https://github-readme-stats.vineelsai.vercel.app/api?username=vineelsai26)](https://github.com/vineelsai26)
 <br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=Twitter-Bot)](https://github.com/vineelsai26/Twitter-Bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vineelsai26&repo=F.R.I.D.A.Y-Bot)](https://github.com/vineelsai26/Telegram-Bot)
-
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
