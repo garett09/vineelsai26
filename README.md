@@ -36,9 +36,9 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com//BlissRoms-Devices/local_manifests/pull/16) in [BlissRoms-Devices/local_manifests](https://github.com//BlissRoms-Devices/local_manifests)
-2. 💪 Opened PR [#27](https://github.com//PixelExperience/wiki/pull/27) in [PixelExperience/wiki](https://github.com//PixelExperience/wiki)
-3. ❗️ Opened issue [#1127](https://github.com//telegraf/telegraf/issues/1127) in [telegraf/telegraf](https://github.com//telegraf/telegraf)
-4. 🗣 Commented on [#1107](https://github.com//telegraf/telegraf/issues/1107) in [telegraf/telegraf](https://github.com//telegraf/telegraf)
+1. 💪 Opened PR [#17](https://github.com//BlissRoms-Devices/local_manifests/pull/17) in [BlissRoms-Devices/local_manifests](https://github.com//BlissRoms-Devices/local_manifests)
+2. ❌ Closed PR [#16](https://github.com//BlissRoms-Devices/local_manifests/pull/16) in [BlissRoms-Devices/local_manifests](https://github.com//BlissRoms-Devices/local_manifests)
+3. 💪 Opened PR [#16](https://github.com//BlissRoms-Devices/local_manifests/pull/16) in [BlissRoms-Devices/local_manifests](https://github.com//BlissRoms-Devices/local_manifests)
+4. 💪 Opened PR [#27](https://github.com//PixelExperience/wiki/pull/27) in [PixelExperience/wiki](https://github.com//PixelExperience/wiki)
 <!--END_SECTION:activity-->
 ---
