@@ -36,9 +36,9 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//vineelsai26/github-readme-stats/pull/1) in [vineelsai26/github-readme-stats](https://github.com//vineelsai26/github-readme-stats)
-2. 💪 Opened PR [#1](https://github.com//vineelsai26/github-readme-stats/pull/1) in [vineelsai26/github-readme-stats](https://github.com//vineelsai26/github-readme-stats)
-3. 💪 Opened PR [#17](https://github.com//BlissRoms-Devices/local_manifests/pull/17) in [BlissRoms-Devices/local_manifests](https://github.com//BlissRoms-Devices/local_manifests)
-4. ❌ Closed PR [#16](https://github.com//BlissRoms-Devices/local_manifests/pull/16) in [BlissRoms-Devices/local_manifests](https://github.com//BlissRoms-Devices/local_manifests)
+1. 🎉 Merged PR [#1](https://github.com/vineelsai26/github-readme-stats/pull/1) in [vineelsai26/github-readme-stats](https://github.com/vineelsai26/github-readme-stats)
+2. 💪 Opened PR [#1](https://github.com/vineelsai26/github-readme-stats/pull/1) in [vineelsai26/github-readme-stats](https://github.com/vineelsai26/github-readme-stats)
+3. 💪 Opened PR [#17](https://github.com/BlissRoms-Devices/local_manifests/pull/17) in [BlissRoms-Devices/local_manifests](https://github.com/BlissRoms-Devices/local_manifests)
+4. ❌ Closed PR [#16](https://github.com/BlissRoms-Devices/local_manifests/pull/16) in [BlissRoms-Devices/local_manifests](https://github.com/BlissRoms-Devices/local_manifests)
 <!--END_SECTION:activity-->
 ---
