@@ -36,9 +36,9 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/vineelsai26/Suduko-Web/pull/1) in [vineelsai26/Suduko-Web](https://github.com/vineelsai26/Suduko-Web)
-2. 🎉 Merged PR [#1](https://github.com/vineelsai26/J.A.R.V.I.S/pull/1) in [vineelsai26/J.A.R.V.I.S](https://github.com/vineelsai26/J.A.R.V.I.S)
-3. 💪 Opened PR [#1](https://github.com/vineelsai26/J.A.R.V.I.S/pull/1) in [vineelsai26/J.A.R.V.I.S](https://github.com/vineelsai26/J.A.R.V.I.S)
-4. 💪 Opened PR [#15](https://github.com/noobDevelopers/J.A.R.V.I.S/pull/15) in [noobDevelopers/J.A.R.V.I.S](https://github.com/noobDevelopers/J.A.R.V.I.S)
+1. 🎉 Merged PR [#1](https://github.com/vineelsai26/Tic-Tac-Toe-Web/pull/1) in [vineelsai26/Tic-Tac-Toe-Web](https://github.com/vineelsai26/Tic-Tac-Toe-Web)
+2. 🎉 Merged PR [#1](https://github.com/vineelsai26/Suduko-Web/pull/1) in [vineelsai26/Suduko-Web](https://github.com/vineelsai26/Suduko-Web)
+3. 🎉 Merged PR [#1](https://github.com/vineelsai26/J.A.R.V.I.S/pull/1) in [vineelsai26/J.A.R.V.I.S](https://github.com/vineelsai26/J.A.R.V.I.S)
+4. 💪 Opened PR [#1](https://github.com/vineelsai26/J.A.R.V.I.S/pull/1) in [vineelsai26/J.A.R.V.I.S](https://github.com/vineelsai26/J.A.R.V.I.S)
 <!--END_SECTION:activity-->
 ---
